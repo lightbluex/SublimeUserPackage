@@ -4,6 +4,7 @@
 	],
 	"installed_packages":
 	[
+		"Emmet",
 		"Package Control",
 		"Pretty JSON",
 		"SublimeCodeIntel",
