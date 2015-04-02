@@ -1,0 +1,5 @@
+{
+     "cmd": ["groovyclient","$file"],
+     "path": "D:/tools/groovy-2.4.0-rc-2/bin",
+     "selector": "source.groovy"
+}
