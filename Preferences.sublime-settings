@@ -2,11 +2,11 @@
 	"color_scheme": "Packages/User/SublimeLinter/Monokai Soda (SL).tmTheme",
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": true,
-	"font_size": 9,
+	"font_size": 10,
 	"ignored_packages":
 	[
 	],
-	"vintage_start_in_command_mode": true,
 	"theme": "Soda Dark 3.sublime-theme",
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"vintage_start_in_command_mode": false
 }
