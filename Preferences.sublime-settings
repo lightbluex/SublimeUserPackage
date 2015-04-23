@@ -6,6 +6,9 @@
 	"ignored_packages":
 	[
 	],
+	"javascript_linter": "jshint",
+	"reveal-on-activate": true,
+	"sublimelinter": true,
 	"theme": "Soda Dark 3.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"vintage_start_in_command_mode": false
