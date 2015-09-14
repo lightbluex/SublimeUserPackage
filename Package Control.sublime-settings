@@ -5,6 +5,8 @@
 	"installed_packages":
 	[
 		"Emmet",
+		"Git",
+		"Git Conflict Resolver",
 		"HTML-CSS-JS Prettify",
 		"Package Control",
 		"Pretty JSON",
